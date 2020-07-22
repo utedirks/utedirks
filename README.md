@@ -1,4 +1,4 @@
-**Hey, I'm Ute** :up:
+**Hey, I'm Ute** :wink:
 
 I'm a Data Scientist and programmer from Germany.
 
