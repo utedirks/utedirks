@@ -2,7 +2,7 @@
 
 I'm a Data Scientist and programmer from Germany.
 
-- :computer: Working as **CAM programmer** at [GieTec] GmbH(https://gie-tec.de/)
+- :computer: Working as **CAM programmer** at [GieTec](https://gie-tec.de/) GmbH
 - :book: Learning and building **Machine Learning** projects in Python
 - :page_facing_up: Learning new programming skills
 <div align=center>
