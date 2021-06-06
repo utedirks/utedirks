@@ -1,8 +1,8 @@
 **Hey, I'm Ute** :wink:
 
-I'm a Data Scientist and programmer from Germany.
+I'm a Data Scientist and Software Developer from Frankfurt in Germany.
 
-- :computer: Working as **CAM programmer** at [GieTec](https://gie-tec.de/) GmbH
+- :computer: Working as **Software Developer** at [ABK Systeme GmbH](https://www.abk.de/) GmbH
 - :book: Learning and building **Machine Learning** projects in Python
 - :pencil: Learning new programming skills
 <div align=center>
