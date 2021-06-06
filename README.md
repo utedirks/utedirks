@@ -2,7 +2,7 @@
 
 I'm a Data Scientist and Software Developer from Frankfurt in Germany.
 
-- :computer: Working as **Software Developer** at [ABK Systeme GmbH](https://www.abk.de/) GmbH
+- :computer: Working as **Software Developer** at [ABK Systeme](https://www.abk.de/) GmbH
 - :book: Learning and building **Machine Learning** projects in Python
 - :pencil: Learning new programming skills
 <div align=center>
