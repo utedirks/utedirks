@@ -3,6 +3,7 @@
 I'm a Data Scientist and Software Developer from Frankfurt in Germany.
 
 - :computer: Working as **Software Developer** at [ABK Systeme](https://www.abk.de/) GmbH
+- 🖱️ Currently I'm creating a new project on Data Warehouse with Spring
 - :book: Learning and building **Machine Learning** projects in Python
 - :pencil: Learning new programming skills
 <div align=center>
